@@ -3,7 +3,7 @@
 Welcome to the Calculator Project repository! This project is a simple web-based calculator built entirely using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations, making it a handy tool for quick calculations right in your web browser.
 
 ## Live Demo
-Check out the live demo of the calculator [here](https://your-calculator-demo-link.com).
+Check out the live demo of the calculator [here][(https://your-calculator-demo-link.com)](https://md786arif.github.io/CalculateMe./).
 
 ## Features
 - Addition, subtraction, multiplication, and division operations.
@@ -13,7 +13,7 @@ Check out the live demo of the calculator [here](https://your-calculator-demo-li
 ## How to Use
 1. Clone the repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/calculator-project.git
+   git clone [https://github.com/your-username/calculator-project.git](https://github.com/MD786Arif/CalculateMe..git)
    ```
    
 2. Open the `index.html` file in your web browser.
@@ -43,14 +43,5 @@ Contributions are welcome and greatly appreciated! If you'd like to contribute t
    ```
 
 5. Open a pull request on the main repository's `main` branch. We'll review your changes and merge them if everything looks good!
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-I would like to extend my gratitude to [Name], [Name], and [Name] for their valuable contributions and inspiration in building this calculator.
-
-## Contact
-If you have any questions, suggestions, or just want to say hi, feel free to reach out to me at [your.email@example.com](mailto:your.email@example.com).
 
 Thank you for visiting the Calculator Project repository. Happy calculating! 🧮
